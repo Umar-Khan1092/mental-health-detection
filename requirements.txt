@@ -1,0 +1,14 @@
+py-feat
+scikit-learn
+torch torchvision torchaudio 
+tensorflow
+opencv-python-headless
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+scipy
+transformers
+tqdm
+tensorflow-lite
